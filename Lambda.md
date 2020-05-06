@@ -15,6 +15,8 @@
 *You can also build serverless applications composed of functions that are triggered by events and automatically deploy them using* 
 *CodePipeline and AWS CodeBuild. For more information, see AWS Lambda applications.*
 
+![](https://d1.awsstatic.com/product-marketing/Lambda/Diagrams/product-page-diagram_Lambda-HowItWorks.68a0bcacfcf46fccf04b97f16b686ea44494303f.png)
+
 ## **Benefits**
 
 ### **NO SERVERS TO MANAGE**
@@ -31,7 +33,3 @@
 ### **CONSISTENT PERFORMANCE**
 *With AWS Lambda, you can optimize your code execution time by choosing the right memory size for your function. You can also enable Provisioned* 
 *Concurrency to keep your functions initialized and hyper-ready to respond within double digit milliseconds.*
-
-
-
-![](https://d1.awsstatic.com/product-marketing/Lambda/Diagrams/product-page-diagram_Lambda-HowItWorks.68a0bcacfcf46fccf04b97f16b686ea44494303f.png)
